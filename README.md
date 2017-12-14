@@ -1,6 +1,10 @@
 # hexo-server
 
-[![Build Status](https://travis-ci.org/hexojs/hexo-server.svg?branch=master)](https://travis-ci.org/hexojs/hexo-server)  [![NPM version](https://badge.fury.io/js/hexo-server.svg)](http://badge.fury.io/js/hexo-server) [![Coverage Status](https://img.shields.io/coveralls/hexojs/hexo-server.svg)](https://coveralls.io/r/hexojs/hexo-server?branch=master) [![Build status](https://ci.appveyor.com/api/projects/status/ycbw8t7w3kjju0tv/branch/master?svg=true)](https://ci.appveyor.com/project/tommy351/hexo-server/branch/master)
+[![Build Status](https://travis-ci.org/hexojs/hexo-server.svg?branch=master)](https://travis-ci.org/hexojs/hexo-server)
+[![NPM version](https://badge.fury.io/js/hexo-server.svg)](https://badge.fury.io/js/hexo-server)
+[![Coverage Status](https://img.shields.io/coveralls/hexojs/hexo-server.svg)](https://coveralls.io/r/hexojs/hexo-server?branch=master) [![Build status](https://ci.appveyor.com/api/projects/status/ycbw8t7w3kjju0tv/branch/master?svg=true)](https://ci.appveyor.com/project/tommy351/hexo-server/branch/master)
+[![NPM Dependencies](https://david-dm.org/hexojs/hexo-server.svg)](https://david-dm.org/hexojs/hexo-server)
+[![NPM DevDependencies](https://david-dm.org/hexojs/hexo-server/dev-status.svg)](https://david-dm.org/hexojs/hexo-server?type=dev)
 
 Server module for [Hexo].
 
@@ -49,4 +53,4 @@ server:
 
 MIT
 
-[Hexo]: http://hexo.io/
+[Hexo](https://hexo.io/)
